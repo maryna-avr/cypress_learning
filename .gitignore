@@ -1,0 +1,5 @@
+.idea/
+node_modules
+*.cy.js
+cypress/videos
+cypress/screenshots
